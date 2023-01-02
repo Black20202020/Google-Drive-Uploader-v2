@@ -1,16 +1,15 @@
-
-# database
-psycopg2-binary
-
-# gdrive
-pydrive
+python-telegram-bot==12.0.0b1
+pySmartDL
+PyDrive
+requests
+urllib3
+requests
+URLObject>=2.1.1
+pycrypto>=2.6
 httplib2==0.15.0
-
-# scrapping and parser
+psycopg2-binary
 bs4
 lxml
-
-#Downloader
 pyaiodl
 
 
@@ -19,5 +18,3 @@ requests
 pyrogram
 # https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 TgCrypto
-
-
