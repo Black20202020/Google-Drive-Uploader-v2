@@ -1,1 +1,2 @@
-worker : chmod +x ./start.sh && bash start.sh
+worker: bash start.sh
+web: python -m http.server $PORT
